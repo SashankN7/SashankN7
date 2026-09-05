@@ -16,7 +16,7 @@ I build full-stack web apps, backend APIs, and applied-AI tooling.
 
 ### Stack
 
-Python · TypeScript · JavaScript · Java · C · React · Next.js · Django · Flask · PostgreSQL · Redis · Docker
+Java · Python · TypeScript · JavaScript · C · React · Next.js · Django · Flask · Celery · PostgreSQL · Redis · Docker
 
 ---
 
